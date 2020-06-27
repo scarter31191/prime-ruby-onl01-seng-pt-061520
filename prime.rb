@@ -1,4 +1,7 @@
-def prime?(array)
+def prime?(num)
+  
+  
+  
   i = 2 
   if i > 0
   range = (1..100).to_a 
